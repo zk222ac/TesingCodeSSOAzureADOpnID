@@ -1,3 +1,5 @@
+
+-- The add surplus code which is support your SSO openID even though You are not enabled SSL setting True. it is work on simple HTTP:localhost 
 ---
 page_type: sample
 languages:
